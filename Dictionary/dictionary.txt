@@ -1,0 +1,4 @@
+text текст
+my Мой
+word слово
+alphabet алфавит
